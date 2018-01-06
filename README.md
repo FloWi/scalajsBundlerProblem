@@ -1,5 +1,7 @@
 # scalajsBundlerProblem
 
+built with `fastOptJS::webpack`
+
 always getting these errors in browser
 
 ```
